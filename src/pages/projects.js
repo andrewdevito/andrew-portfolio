@@ -21,7 +21,7 @@ function Projects() {
                     destinations in Europe, build their own lists of places they visited, and review other users’ public lists. 
                     The website was deployed to an EC2 server through AWS.
                 </p>
-                <a href="https://github.com/andrewdevito/SE3316-Lab-4" target="_blank">Want to see? click here</a>
+                <a href="https://github.com/andrewdevito/SE3316-Lab-4" target="_blank" rel="noreferrer">Want to see? click here</a>
 
 
                 <h2>Homeys - Group Mobile App Project</h2>
@@ -44,14 +44,14 @@ function Projects() {
                     Built a peer-to-peer kademlia network that allows a client to perform a basic search for an image. 
                     The system of server returns the image if it exists in the network.
                 </p>
-                <a href="https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface.png" target="_blank">Want to see? click here - not available</a>
+                <a href="https://github.com/andrewdevito/SE3314B---A3" target="_blank" rel="noreferrer">Want to see? click here</a>
 
 
                 <h2>iFashionStore -Java Project</h2>
                 <p>
                     Used a combination of JavaFX and SQL to create and add items to a user’s personal shopping cart.	
                 </p>
-                <a href="https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface.png" target="_blank">Want to see? click here - not available</a>
+                <a href="https://en.wikipedia.org/wiki/Trollface#/media/File:Trollface.png" target="_blank" rel="noreferrer">Want to see? click here - not available</a>
             </div>
 
 
